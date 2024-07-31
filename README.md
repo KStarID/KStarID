@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://github.com/KStarID)
 <h1 align="center">Hi 👋, I'm Kemal Aziz</h1>
-<h3 align="center">A passionate Full Stack and Machine Learning developer from Indonesia</h3>
+<h3 align="center">A passionate Full Stack and Cloud Computing developer from Indonesia</h3>
 
 
 
